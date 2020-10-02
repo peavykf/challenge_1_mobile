@@ -1,0 +1,133 @@
+body {
+  font-family: 'Spartan', sans-serif;
+  text-align: center;
+  max-width: 375px;
+  background: url("../images/bg-pattern-top-desktop.svg") no-repeat;
+  background-size: 375px;
+}
+
+h1 {
+  position: relative;
+  margin: 70px auto 20px;
+  width: 300px;
+  color: hsl(300, 43%, 22%);
+}
+
+h2 {
+  font-size: 15px;
+  font-weight: bold;
+  color: white;
+  margin-right: 150px;
+  margin-bottom: 5px;
+  padding-top: 30px;
+}
+
+h3 {
+  font-size: 15px;
+  color: hsl(333, 80%, 67%);
+  font-weight: normal;
+  margin-right: 150px;
+  margin-top: 0;
+}
+
+table {
+  background-color: hsl(300, 24%, 96%);
+  border-radius: 6px;
+  position: relative;
+  margin: 0;
+  padding: 5px 0 5px;
+  width: 375px;
+}
+
+.top-box p {
+  line-height: 1.5;
+  width: 340px;
+  font-size: 15px;
+  margin: auto;
+  margin-bottom: 30px;
+}
+
+.top-tab td {
+  padding: 5px;
+}
+
+.middle-tab td {
+  padding: 5px;
+}
+
+.bottom-tab td {
+  padding: 5px;
+}
+
+.top-tab {
+  margin-bottom: 15px;
+}
+
+.middle-tab {
+  margin-bottom: 15px;
+}
+
+.bottom-tab {
+  margin-bottom: 30px;
+}
+
+.rated {
+  font-weight: bold;
+  font-size: 15px;
+}
+
+.verified-buyers-top {
+  background-color: hsl(300, 43%, 22%);
+  border-radius: 6px;
+}
+
+.verified-buyers-middle {
+  background-color: hsl(300, 43%, 22%);
+  border-radius: 6px;
+}
+
+.verified-buyers-bottom {
+  background-color: hsl(300, 43%, 22%);
+  border-radius: 6px;
+}
+
+.colton {
+  border-radius: 50%;
+  margin-left: 30px;
+  margin-top: 30px;
+  float: left;
+  width: 10%;
+}
+
+.irene {
+  border-radius: 50%;
+  margin-left: 30px;
+  margin-top: 30px;
+  float: left;
+  width: 10%;
+}
+
+.anne {
+  border-radius: 50%;
+  margin-left: 30px;
+  margin-top: 30px;
+  float: left;
+  width: 10%;
+}
+
+.verified-p {
+  clear: left;
+  font-size: 15px;
+  color: white;
+  line-height: 1.5;
+  width: 311px;
+  height: 140px;
+  margin-top: 30px;
+  text-align: left;
+  margin-left: 32px;
+}
+
+.attribution {
+  background-color: white;
+  padding-top: 50px;
+}
